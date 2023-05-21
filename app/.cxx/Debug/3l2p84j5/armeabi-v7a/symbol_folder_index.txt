@@ -1,0 +1,1 @@
+C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\intermediates\cxx\Debug\3l2p84j5\obj\armeabi-v7a

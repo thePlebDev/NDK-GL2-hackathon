@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/14035/Desktop/Java Stuff/android/VulkanTuts/ndk-samples/hello-gl2/app/.cxx/Debug/3l2p84j5/x86",
+  "command": "C:\\Users\\14035\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android19 --sysroot=C:/Users/14035/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dgl2jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -fno-limit-debug-info  -fPIC -o CMakeFiles\\gl2jni.dir\\gl_code.cpp.o -c \"C:\\Users\\14035\\Desktop\\Java Stuff\\android\\VulkanTuts\\ndk-samples\\hello-gl2\\app\\src\\main\\cpp\\gl_code.cpp\"",
+  "file": "C:\\Users\\14035\\Desktop\\Java Stuff\\android\\VulkanTuts\\ndk-samples\\hello-gl2\\app\\src\\main\\cpp\\gl_code.cpp"
+}
+]

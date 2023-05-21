@@ -1,0 +1,3 @@
+C:/Users/14035/Desktop/Java Stuff/android/VulkanTuts/ndk-samples/hello-gl2/app/.cxx/Debug/3l2p84j5/armeabi-v7a/CMakeFiles/gl2jni.dir
+C:/Users/14035/Desktop/Java Stuff/android/VulkanTuts/ndk-samples/hello-gl2/app/.cxx/Debug/3l2p84j5/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/14035/Desktop/Java Stuff/android/VulkanTuts/ndk-samples/hello-gl2/app/.cxx/Debug/3l2p84j5/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\intermediates\cxx\Debug\506o3d23\obj\x86

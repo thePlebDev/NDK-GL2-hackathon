@@ -1,0 +1,7 @@
+com.android.gl2jni.app-pngs-0 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\generated\res\pngs\debug
+com.android.gl2jni.app-resValues-1 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\generated\res\resValues\debug
+com.android.gl2jni.app-mergeDebugResources-2 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.android.gl2jni.app-mergeDebugResources-3 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.android.gl2jni.app-merged_res-4 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\build\intermediates\merged_res\debug
+com.android.gl2jni.app-debug-5 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\src\debug\res
+com.android.gl2jni.app-main-6 C:\Users\14035\Desktop\Java Stuff\android\VulkanTuts\ndk-samples\hello-gl2\app\src\main\res
